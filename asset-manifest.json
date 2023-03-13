@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sathish0704/weather-app-reactjs/static/css/main.dab4022d.css",
-    "main.js": "/sathish0704/weather-app-reactjs/static/js/main.f3ee6359.js",
+    "main.css": "/sathish0704/weather-app-reactjs/static/css/main.84359941.css",
+    "main.js": "/sathish0704/weather-app-reactjs/static/js/main.018ef3ab.js",
     "static/js/787.d62d1c65.chunk.js": "/sathish0704/weather-app-reactjs/static/js/787.d62d1c65.chunk.js",
     "static/media/55.jpg": "/sathish0704/weather-app-reactjs/static/media/55.e60996516089773b2e21.jpg",
     "static/media/22.jpg": "/sathish0704/weather-app-reactjs/static/media/22.b1056b008c3c516f54b6.jpg",
     "index.html": "/sathish0704/weather-app-reactjs/index.html",
-    "main.dab4022d.css.map": "/sathish0704/weather-app-reactjs/static/css/main.dab4022d.css.map",
-    "main.f3ee6359.js.map": "/sathish0704/weather-app-reactjs/static/js/main.f3ee6359.js.map",
+    "main.84359941.css.map": "/sathish0704/weather-app-reactjs/static/css/main.84359941.css.map",
+    "main.018ef3ab.js.map": "/sathish0704/weather-app-reactjs/static/js/main.018ef3ab.js.map",
     "787.d62d1c65.chunk.js.map": "/sathish0704/weather-app-reactjs/static/js/787.d62d1c65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dab4022d.css",
-    "static/js/main.f3ee6359.js"
+    "static/css/main.84359941.css",
+    "static/js/main.018ef3ab.js"
   ]
 }
